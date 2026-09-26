@@ -13,7 +13,8 @@ and the SHA-256 of every chunk, which Kingfisher checks before using a byte.
 | Directory                 | Pack                                             | Source                                                    | Licence      |
 | ------------------------- | ------------------------------------------------ | --------------------------------------------------------- | ------------ |
 | `reference-elite-v3/`     | Elite OTB Reference, with per-position history   | Lichess broadcast archive, every month 2020-01 … 2026-08  | CC BY-SA 4.0 |
-| `reference-rapid-v1/`     | High-Rated Rapid & Classical Online Reference    | Lichess standard rated database, seven months             | CC0 1.0      |
+| `reference-elite-v4/`     | v3 with relay dates read as dates (current)      | Lichess broadcast archive, every month 2020-01 … 2026-08  | CC BY-SA 4.0 |
+| `reference-rapid-v1/`     | High-Rated Rapid & Classical Online Reference    | Lichess standard rated database, 2026-02 … 2026-08        | CC0 1.0      |
 
 The broadcast archive is © its contributors and Lichess, licensed
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); these packs are
